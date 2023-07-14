@@ -31,6 +31,8 @@ This dataset contains 7 table-
 13.	Favorite food of each customers ?
 
 ### Feel free to go through the dataset and project, and also connect with me on [Linkedin](https://www.linkedin.com/in/aditya-shankar-076152169/)
+## For the Powerbi Interactive portfolio - visit my [Data Visualization Portfolio]
+( https://www.novypro.com/profile_projects/adityashankar )
 
 
 
